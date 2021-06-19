@@ -7,27 +7,31 @@
 # Eatery_Responsive-Webiste
 <p>A Multi page responsive website using HTML,CSS and Bootstrap</p>
 
+<p>&nbsp;</p>
+
 ## Prerequisites
 - Any Editor (Preferably VS Code or Sublime Text)
 - Any web browser with latest version
 
+<p>&nbsp;</p>
+
 ## Technologies
 - VS Code
 - User Interface Design: HTML, CSS, Bootstrap
+
+<p>&nbsp;</p>
 
 ## Getting Started
 
 1. Download and install your prefered editor in your machine.
 2. Clone or download the repository.
 3. Extract all the files.
-4. Open your files using the editor.
-5. Run the code in the web browseer.
+4. Open files using the editor.
+5. Run the code in the web browser.
 
 <p>&nbsp;</p>
 
 ## Getting into the project
- ### Here are the screenshots of the project
- 
  ## • Home
  
  <img src="https://github.com/Sushanthrao2001/Eatery_Responsive-Website/blob/main/Screenshots/home.png">
